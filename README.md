@@ -4,9 +4,9 @@
 
 # 下载慢或者无法下载
 
-请通过这里教程解决网络问题 
+请通过这里教程解决网络问题  https://tztz.fun?code=githubbook
 
-https://tztz.fun?code=githubbook
+或者从这里试试可以直接下载 https://bitbucket.org/baidu-qq/books
 
 ## android
 
